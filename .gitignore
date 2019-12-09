@@ -3,6 +3,7 @@
 # dotenv
 .env
 
+_build
 
 #terraform stuff
 terraform/
